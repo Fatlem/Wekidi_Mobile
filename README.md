@@ -54,11 +54,11 @@ Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi 
 
 ## 📜 Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [Fatlem](LICENSE).
 
 ## 📫 Kontak
 
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [email@example.com].
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya di [faathireltasleem224@gmail.com].
 
 ---
 
